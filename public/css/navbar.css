@@ -72,7 +72,7 @@
 }
 
 .nav__list .active {
-    color: #3395c9;
+    color: #4A0000;
 }
 
 /* Navigation for mobile devices */
@@ -112,7 +112,7 @@
 }
 
 .nav__link:hover {
-    color: #3395c9;
+    color: #4A0000;
     background-color: #e6ebed;
     transition: 0.3s ease-in-out;
 }
@@ -164,7 +164,7 @@
 }
 
 .dropdown__link:hover {
-    color: #3395c9;
+    color: #4A0000;
     background-color: #e6ebed;
     transition: 0.3s ease-in-out;
 }
