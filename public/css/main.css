@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
 
 :root {
-    --main-color: #3395c9;
+    --main-color: #4A0000;
     --second-color: #1a1a1a;
     --font-poppins: "Poppins", sans-serif;
 }
@@ -102,7 +102,7 @@ body {
 .subheader {
     margin-top: 20px;
     padding-top: 120px;
-    background: linear-gradient(#3395c9, #246b92);
+    background: linear-gradient(#4A0000, #4a1313);
 }
 
 .subheader .subheader-wrapper {
@@ -244,7 +244,7 @@ body {
 }
 
 .box-detail .btn {
-    background: linear-gradient(#3395c9, #246b92);
+    background: linear-gradient(#4A0000, #246b92);
     width: 120px;
     height: 30px;
     border-radius: 50px;
@@ -332,7 +332,7 @@ body {
 .circle {
     width: 100px;
     height: 100px;
-    background: linear-gradient(#3395c9, #3395c9);
+    background: linear-gradient(#4A0000, #4A0000);
     border-radius: 50%;
     position: absolute;
     animation: move-up6 2s ease-in infinite alternate-reverse;
@@ -364,7 +364,7 @@ body {
 /*BEM Apps Start*/
 .bem-apps {
     margin-top: 200px;
-    background: linear-gradient(#3395c9, #246b92);
+    background: linear-gradient(#4A0000, #4a1313);
 }
 
 .bem-apps .apps-wrapper {
@@ -567,7 +567,7 @@ body {
 }
 
 .row1-media .bar-media {
-    background-color: var(--main-color);
+    background-color: var(--second-color);
     width: 140px;
     margin: auto;
     height: 12px;
@@ -987,7 +987,7 @@ footer .footer-wrapper {
 .box .box-imagebph {
     background: linear-gradient(
         180deg,
-        #3395c9 0%,
+        #4A0000 0%,
         rgba(255, 228, 142, 0.05) 100%
     );
     border-radius: 50px;
