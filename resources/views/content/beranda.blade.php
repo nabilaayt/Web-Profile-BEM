@@ -76,7 +76,7 @@
         <div class="content-left" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
             <h2 class="typescript">HI! <span id="typescript"></span></h2>
             <h3>BEM KM FASILKOM UNSRI 2024</h3>
-            <h1>KABINET Adibrata Kriya</h1>
+            <h1>KABINET Artha Dharma</h1>
             <h2>#RagamJiwaSatuKarsa</h2>
             <p>Adibrata Kriya akan menjadi wadah kolaborasi yang Inklusif, Dedikatif, dan Progresif untuk kebermanfaatan
                 bagi KM Fasilkom UNSRI.</p>
