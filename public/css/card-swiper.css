@@ -156,7 +156,7 @@
     transition: all 0.4s;
 }
 .blog-slider__code {
-    color: #000000;
+    color: #ffffff;
     margin-bottom: 15px;
     display: block;
     font-weight: 500;
@@ -164,11 +164,11 @@
 .blog-slider__title {
     font-size: 20px;
     font-weight: 700;
-    color: #000000;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 .blog-slider__text {
-    color: #000000;
+    color: #ffffff;
     font-size: 13px;
     margin-bottom: 30px;
     line-height: 1.5em;

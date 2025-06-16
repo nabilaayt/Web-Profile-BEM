@@ -78,7 +78,7 @@
                 <img loading="lazy" src="{{ asset('assets/image/logo.png') }}" alt="">
                 <div class="logo-detail">
                     <h3>BEM KM FASILKOM UNSRI</h3>
-                    <p>#Kabinet Cakra Baswara</p>
+                    <p>#Kabinet Artha Dharma</p>
                 </div>
             </div>
             <div class="footer-detail">
@@ -98,7 +98,7 @@
             </div>
         </div>
         <div class="row2">
-            <h2>© BEM KM FASILKOM UNSRI 2023 | Kabinet Cakra Baswara</h2>
+            <h2>© BEM KM FASILKOM UNSRI 2023 | Kabinet Artha Dharma</h2>
         </div>
     </div>
 </footer>
