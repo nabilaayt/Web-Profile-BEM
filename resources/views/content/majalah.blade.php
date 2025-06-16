@@ -31,35 +31,13 @@
 
                     <ul class="dropdown__menu">
                         <li>
-                            <a href="/berita" class="dropdown__link">
-                                <i class="ri-user-line"></i> Pojok Berita
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/majalah" class="dropdown__link active">
-                                <i class="ri-lock-line"></i> E-Magazine
-                            </a>
-                        </li>
-
-                        <li>
                             <a href="https://gaspol.bemilkomunsri.org" class="dropdown__link">
                                 <i class="ri-code-line"></i> GASPOL
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="dropdown__link">
-                                <i class="ri-code-line"></i> Fasilkom Learning Connection
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="dropdown__link">
+                            <a href="https://ilkomnews.bemilkomunsri.org/" class="dropdown__link">
                                 <i class="ri-message-3-line"></i> Ilkom News
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="dropdown__link">
-                                <i class="ri-message-3-line"></i> BEM Shortlink
                             </a>
                         </li>
                     </ul>
