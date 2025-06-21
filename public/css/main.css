@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
 
 :root {
-    --main-color: #3395c9;
+    --main-color: #4a0000;
     --second-color: #1a1a1a;
     --font-poppins: "Poppins", sans-serif;
 }
@@ -102,7 +102,7 @@ body {
 .subheader {
     margin-top: 20px;
     padding-top: 120px;
-    background: linear-gradient(#3395c9, #246b92);
+    background: linear-gradient(#4a0000, #4a1313);
 }
 
 .subheader .subheader-wrapper {
@@ -244,7 +244,7 @@ body {
 }
 
 .box-detail .btn {
-    background: linear-gradient(#3395c9, #246b92);
+    background: linear-gradient(#4a0000, #246b92);
     width: 120px;
     height: 30px;
     border-radius: 50px;
@@ -332,7 +332,7 @@ body {
 .circle {
     width: 100px;
     height: 100px;
-    background: linear-gradient(#3395c9, #3395c9);
+    background: linear-gradient(#4a0000, #4a0000);
     border-radius: 50%;
     position: absolute;
     animation: move-up6 2s ease-in infinite alternate-reverse;
@@ -364,7 +364,7 @@ body {
 /*BEM Apps Start*/
 .bem-apps {
     margin-top: 200px;
-    background: linear-gradient(#3395c9, #246b92);
+    background: linear-gradient(#4a0000, #4a1313);
 }
 
 .bem-apps .apps-wrapper {
@@ -567,7 +567,7 @@ body {
 }
 
 .row1-media .bar-media {
-    background-color: var(--main-color);
+    background-color: var(--second-color);
     width: 140px;
     margin: auto;
     height: 12px;
@@ -597,7 +597,7 @@ body {
 /*Footer Start*/
 footer {
     padding: 110px 0 40px 0;
-    background-color: var(--second-color);
+    background-color: var(--main-color);
 }
 
 footer .footer-wrapper {
@@ -987,7 +987,7 @@ footer .footer-wrapper {
 .box .box-imagebph {
     background: linear-gradient(
         180deg,
-        #3395c9 0%,
+        #4a0000 0%,
         rgba(255, 228, 142, 0.05) 100%
     );
     border-radius: 50px;
@@ -1252,8 +1252,8 @@ footer .footer-wrapper {
     width: 90%;
     position: relative;
     border-radius: 10px;
-    border-color: #2D2D2D;
-    border: 20px solid #2D2D2D;
+    border-color: #2d2d2d;
+    border: 20px solid #2d2d2d;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25);
 }
 
@@ -1309,7 +1309,7 @@ footer .footer-wrapper {
 }
 
 .flip-button:hover {
-    background-color: #333; 
+    background-color: #333;
 }
 .back .button-majalah:hover {
     background-color: var(--second-color);
@@ -1319,8 +1319,8 @@ footer .footer-wrapper {
 
 .back .button-majalah a {
     font-size: 12px;
-    color:white;
-    text-decoration: none; 
+    color: white;
+    text-decoration: none;
 }
 
 .back .button-majalah:hover a {
@@ -1329,8 +1329,8 @@ footer .footer-wrapper {
 
 .flip-container {
     perspective: 1000px;
-    width: 100%; 
-    height: 90%; 
+    width: 100%;
+    height: 90%;
 }
 
 .flipper {
@@ -1341,7 +1341,8 @@ footer .footer-wrapper {
     height: 100%;
 }
 
-.front, .back {
+.front,
+.back {
     backface-visibility: hidden;
     position: absolute;
     top: 0;
@@ -1357,15 +1358,14 @@ footer .footer-wrapper {
 .front {
     z-index: 2;
     transform: rotateY(0deg);
-
 }
 
 .back {
-    background-color: white; 
+    background-color: white;
     transform: rotateY(180deg);
     z-index: 1;
-    padding: 20px; 
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3); 
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
 }
 
@@ -2194,8 +2194,6 @@ footer .footer-wrapper {
         font-size: 12px;
     }
 
-
-
     .majalahlist-wrapper .row1 h3 {
         font-size: 24px;
     }
@@ -2225,21 +2223,20 @@ footer .footer-wrapper {
         font-size: 9px;
     }
     .majalah-list .majalahlist-wrapper .row2 {
-        flex-direction: column; 
-        align-items: center; 
+        flex-direction: column;
+        align-items: center;
     }
-
 
     .majalah-list .majalahlist-wrapper .row2 .box-majalah {
         width: 250px;
     }
 
-    .flip-container, .front, .back {
-        width: 100%; 
+    .flip-container,
+    .front,
+    .back {
+        width: 100%;
         height: 350px;
     }
-
-   
 }
 
 /*Majalah End*/

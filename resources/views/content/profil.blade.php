@@ -31,35 +31,13 @@
 
                     <ul class="dropdown__menu">
                         <li>
-                            <a href="/berita" class="dropdown__link">
-                                <i class="ri-user-line"></i> Pojok Berita
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/majalah" class="dropdown__link">
-                                <i class="ri-lock-line"></i> E-Magazine
-                            </a>
-                        </li>
-
-                        <li>
                             <a href="https://gaspol.bemilkomunsri.org" class="dropdown__link">
                                 <i class="ri-code-line"></i> GASPOL
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="dropdown__link">
-                                <i class="ri-code-line"></i> Fasilkom Learning Connection
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="dropdown__link">
+                            <a href="https://ilkomnews.bemilkomunsri.org/" class="dropdown__link">
                                 <i class="ri-message-3-line"></i> Ilkom News
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="dropdown__link">
-                                <i class="ri-message-3-line"></i> BEM Shortlink
                             </a>
                         </li>
                     </ul>
@@ -74,55 +52,58 @@
 <section class="slider">
     <div class="owl-carousel owl-theme" style="padding-top: 80px">
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide1.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/inti.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide17.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/Koorbid-Kerumahtanggaan.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide2.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/Koorbid-Sospol.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide3.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/Koorbid-Relasi.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide4.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/Koorbid-Medtek.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide5.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/Koorbid-Minbat.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide6.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-PPSDM.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide7.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-ADM.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide8.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-ADPER.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide9.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-SOSMASLING.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide10.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-KASTRAT.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide11.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-BISMIT.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide12.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-HUNTER.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide13.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-HUBEKS.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide14.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-MEDINFO.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide15.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-RISTEK.png" class="card-img-top" alt="...">
         </div>
         <div class="item" data-merge="3">
-            <img loading="lazy" src="assets/image/slide16.png" class="card-img-top" alt="...">
+            <img loading="lazy" src="assets/image/BPH-OLAHRAGA.png" class="card-img-top" alt="...">
+        </div>
+        <div class="item" data-merge="3">
+            <img loading="lazy" src="assets/image/BPH-SENBUD.png" class="card-img-top" alt="...">
         </div>
     </div>
 </section>
@@ -138,26 +119,26 @@
         <div class="row2">
             <div class="box-inti">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/inti1.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Ketua.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/inti2.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Wakil-Ketua.png" alt="">
                 </div>
             </div>
             <div class="box-inti">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/inti3.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Inspektorat-Proker.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/inti4.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Inspektorat-Pengawasan.png" alt="">
                 </div>
             </div>
             <div class="box-inti">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/inti5.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Sekum.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/inti6.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Bendum.png" alt="">
                 </div>
             </div>
         </div>
@@ -167,129 +148,25 @@
 
 <!--Bidang Start-->
 <section class="bidang">
-    <!--Internal-->
+    <!--KerumahTanggaan-->
     <div class="intro">
-        <h2>BIDANG INTERNAL</h2>
+        <h2>BIDANG KERUMAHTANGAAN</h2>
         <div class="bar"></div>
-        <img loading="lazy" src="assets/image/bidang-internal.png" alt="">
+        <img loading="lazy" src="assets/image/Bidang-Kerumahtanggan.png" alt="">
     </div>
     <div class="container bidang-wrapper">
         <div class="row1">
             <div class="box-bidang">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/koor-internal1.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Kerumahtanggan_Mutia.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/koor-internal2.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Kerumahtanggan_Diva.png" alt="">
                 </div>
             </div>
         </div>
+        
         <div class="row2">
-            <div class="content-dinas">
-                <div class="title-dinas">
-                    <h3>Dinas ADMINISTRASI</h3>
-                    <div class="bar"></div>
-                </div>
-                <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
-                    <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/deasyana.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Muhamad Anandithyo Aftarudzaki</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/desna.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Bagus Prihantoro</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/dina.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>M. Bintang Naufal Riansyah</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/githa.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Edo Wicaksono</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/ilma.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Ferdio Putra Prakarsa</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/khai.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Khoiron Abdullah Muqsith</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/khoirunnisa.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Putri Rahel Alifia</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/meiyin.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Muhammad Razaan Arjuna</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/nadia.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Suci Lestari</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/nurhalizah.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Zakirah Sabrina Putri Pasha</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/putri.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Erlangga Saputra</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/redinda.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Batara Obed H. Simbolon</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/rosmalinda.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Aulia Khairunnisa</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/xenia.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Jihan Badiatus Shaliha</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slider__nav" style="display: flex;justify-content: center;">
-                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth * -1, behavior: 'smooth'});" x-bind:class="start ? '' : 'slider__nav__button--active'">Previous</button>
-                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth, behavior: 'smooth'});" x-bind:class="end ? '' : 'slider__nav__button--active'">Next</button>
-                    </div>
-                </div>
-                <div class="detail-dinas">
-                    <p>Dinas Administrasi adalah dinas yang bertanggung jawab dalan mengelola surat menyurat terkait
-                        administrasi pada bidang kesekretariatan serta alur keuangan internal BEM KM Fasilkom Unsri.
-                        Dinas administrasi dibagi menjadi 2 divisi yaitu Divisi Kesekretariatan dan Divisi Keuangan</p>
-                </div>
-            </div>
-        </div>
-        <div class="row3">
             <div class="content-dinas">
                 <div class="title-dinas">
                     <h3>Dinas PPSDM</h3>
@@ -412,28 +289,133 @@
                 </div>
             </div>
         </div>
+        <div class="row3">
+            <div class="content-dinas">
+                <div class="title-dinas">
+                    <h3>Dinas ADMINISTRASI</h3>
+                    <div class="bar"></div>
+                </div>
+                <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
+                    <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/deasyana.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhamad Anandithyo Aftarudzaki</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/desna.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Bagus Prihantoro</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/dina.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>M. Bintang Naufal Riansyah</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/githa.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Edo Wicaksono</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/ilma.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Ferdio Putra Prakarsa</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/khai.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Khoiron Abdullah Muqsith</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/khoirunnisa.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Putri Rahel Alifia</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/meiyin.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Razaan Arjuna</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/nadia.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Suci Lestari</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/nurhalizah.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Zakirah Sabrina Putri Pasha</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/putri.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Erlangga Saputra</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/redinda.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Batara Obed H. Simbolon</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/rosmalinda.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Aulia Khairunnisa</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/xenia.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Jihan Badiatus Shaliha</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider__nav" style="display: flex;justify-content: center;">
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth * -1, behavior: 'smooth'});" x-bind:class="start ? '' : 'slider__nav__button--active'">Previous</button>
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth, behavior: 'smooth'});" x-bind:class="end ? '' : 'slider__nav__button--active'">Next</button>
+                    </div>
+                </div>
+                <div class="detail-dinas">
+                    <p>Dinas Administrasi adalah dinas yang bertanggung jawab dalan mengelola surat menyurat terkait
+                        administrasi pada bidang kesekretariatan serta alur keuangan internal BEM KM Fasilkom Unsri.
+                        Dinas administrasi dibagi menjadi 2 divisi yaitu Divisi Kesekretariatan dan Divisi Keuangan</p>
+                </div>
+            </div>
+        </div>
     </div>
-    <!--Relasi dan Mitra-->
+    <!--SOSPOL-->
     <div class="intro">
-        <h2>BIDANG RELASI & MITRA</h2>
+        <h2>BIDANG SOSIAL POLITIK</h2>
         <div class="bar"></div>
-        <img loading="lazy" src="assets/image/bidang-retra.png" alt="">
+        <img loading="lazy" src="assets/image/Bidang-Sospol.png" alt="">
     </div>
     <div class="container bidang-wrapper">
         <div class="row1">
             <div class="box-bidang">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/koor-remit1.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Sospol_Dzawil.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/koor-remit2.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Sospol_Dini.png" alt="">
                 </div>
             </div>
         </div>
         <div class="row2">
             <div class="content-dinas">
                 <div class="title-dinas">
-                    <h3>Dinas RELASI</h3>
+                    <h3>Dinas ADPER</h3>
                     <div class="bar"></div>
                 </div>
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
@@ -560,7 +542,130 @@
         <div class="row3">
             <div class="content-dinas">
                 <div class="title-dinas">
-                    <h3>Dinas BISMIT</h3>
+                    <h3>Dinas SOSMASLING</h3>
+                    <div class="bar"></div>
+                </div>
+                <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
+                    <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/anandithyo.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhamad Anandithyo Aftarudzaki</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/bagus.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Bagus Prihantoro</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/bintang.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>M. Bintang Naufal Riansyah</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/edo.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Edo Wicaksono</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/ferdio.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Ferdio Putra Prakarsa</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/khoiron.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Khoiron Abdullah Muqsith</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/rahel.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Putri Rahel Alifia</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/razaan.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Razaan Arjuna</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/suci.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Suci Lestari</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/zakirah.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Zakirah Sabrina Putri Pasha</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/erlangga.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Erlangga Saputra</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/batara.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Batara Obed H. Simbolon</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/aulia.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Aulia Khairunnisa</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/jihan.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Jihan Badiatus Shaliha</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/rasyid.png" alt="Image">
+                            <div class="slider__info">
+                                <h2> M. Rasyid Ridho</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/parnata.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Parnata Nalom Banjarnahor</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/putri.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Putri Maharani</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider__nav" style="display: flex;justify-content: center;">
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth * -1, behavior: 'smooth'});" x-bind:class="start ? '' : 'slider__nav__button--active'">Previous</button>
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth, behavior: 'smooth'});" x-bind:class="end ? '' : 'slider__nav__button--active'">Next</button>
+                    </div>
+                </div>
+                <div class="detail-dinas">
+                    <p>Dinas Bismit merupakan dinas yang berperan untuk menunjang keuangan internal serta menjalin
+                        kemitraan dengan pihak-pihak luar guna menuhi kebutuhan internal BEM KM Fasilkom Unsri serta
+                        mewadahi potensi mahasiswa di bidang kewirausahaan.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row4">
+            <div class="content-dinas">
+                <div class="title-dinas">
+                    <h3>Dinas KASTRAT</h3>
                     <div class="bar"></div>
                 </div>
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
@@ -681,27 +786,27 @@
             </div>
         </div>
     </div>
-    <!--Eksternal-->
+    <!--Relasi-->
     <div class="intro">
-        <h2>BIDANG EKSTERNAL</h2>
+        <h2>BIDANG RELASI</h2>
         <div class="bar"></div>
-        <img loading="lazy" src="assets/image/bidang-eksternal.png" alt="">
+        <img loading="lazy" src="assets/image/Bidang-Relasi.png" alt="">
     </div>
     <div class="container bidang-wrapper">
         <div class="row1">
             <div class="box-bidang">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/koor-eksternal1.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Relasi_Ferry.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/koor-eksternal2.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Relasi_Putri.png" alt="">
                 </div>
             </div>
         </div>
         <div class="row2">
             <div class="content-dinas">
                 <div class="title-dinas">
-                    <h3>Dinas KASTRAD</h3>
+                    <h3>Dinas BISMIT</h3>
                     <div class="bar"></div>
                 </div>
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
@@ -824,7 +929,131 @@
         <div class="row3">
             <div class="content-dinas">
                 <div class="title-dinas">
-                    <h3>Dinas SOSMASLING</h3>
+                    <h3>Dinas HUNTER</h3>
+                    <div class="bar"></div>
+                </div>
+                <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
+                    <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/anandithyo.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhamad Anandithyo Aftarudzaki</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/bagus.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Bagus Prihantoro</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/bintang.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>M. Bintang Naufal Riansyah</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/edo.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Edo Wicaksono</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/ferdio.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Ferdio Putra Prakarsa</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/khoiron.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Khoiron Abdullah Muqsith</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/rahel.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Putri Rahel Alifia</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/razaan.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Razaan Arjuna</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/suci.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Suci Lestari</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/zakirah.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Zakirah Sabrina Putri Pasha</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/erlangga.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Erlangga Saputra</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/batara.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Batara Obed H. Simbolon</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/aulia.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Aulia Khairunnisa</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/jihan.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Jihan Badiatus Shaliha</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/rasyid.png" alt="Image">
+                            <div class="slider__info">
+                                <h2> M. Rasyid Ridho</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/parnata.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Parnata Nalom Banjarnahor</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/putri.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Putri Maharani</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider__nav" style="display: flex;justify-content: center;">
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth * -1, behavior: 'smooth'});" x-bind:class="start ? '' : 'slider__nav__button--active'">Previous</button>
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth, behavior: 'smooth'});" x-bind:class="end ? '' : 'slider__nav__button--active'">Next</button>
+                    </div>
+                </div>
+                <div class="detail-dinas">
+                    <p>Dinas Sosmasling merupakan salah satu dinas yang ada di organisasi BEM Fasilkom yang bertugas
+                        dalam mengembangkan dan mengelola program-program yang berfokus pada aspek sosial, masyarakat,
+                        dan lingkungan di lingkungan Fakultas. Dinas ini bertanggung jawab untuk memperhatikan
+                        kepedulian sosial serta isu-isu yang berkaitan dengan masyarakat dan lingkungan sekitar.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row4">
+            <div class="content-dinas">
+                <div class="title-dinas">
+                    <h3>Dinas HUBEKS</h3>
                     <div class="bar"></div>
                 </div>
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
@@ -950,138 +1179,21 @@
     <div class="intro">
         <h2 class="medtek">BIDANG MEDIA & TEKNOLOGI</h2>
         <div class="bar"></div>
-        <img loading="lazy" src="assets/image/bidang-medtek.png" alt="">
+        <img loading="lazy" src="assets/image/Bidang-Medtek.png" alt="">
     </div>
     <div class="container bidang-wrapper">
         <div class="row1">
             <div class="box-bidang">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/koor-medtek1.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Medtek_Faisal.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/koor-medtek2.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Medtek_Ubit.png" alt="">
                 </div>
             </div>
         </div>
+        
         <div class="row2">
-            <div class="content-dinas">
-                <div class="title-dinas">
-                    <h3>Dinas RISTEK</h3>
-                    <div class="bar"></div>
-                </div>
-                <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
-                    <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/farrel.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Farrel Athaillah Wijaya </h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/shofwan.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Shofwan Mahdi</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rifqi.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Muhammad Rifqi Rizqullah</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fachry.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Fachry Ghifary</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/dayef.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Dayef Alfarey Benjamin</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alif.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Muhammad Alif Alferdiansyah</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/jordi.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Jordi Abrar satria</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rey.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>M. Reyvaldo</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/kevin.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Jhon Kevin Andianto Sinaga</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fitran.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Fitran Husein</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/lia.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Lia</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/zwesty.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Zwesty Quatra</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/faizal.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Muhammad Faizal</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fathul.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Muhammad Fathul Akbar</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rifki.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>M. Rifki Tri Saputra </h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alfarizi.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Muhammad Alfarizi Ramadhiyansa</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slider__nav" style="display: flex;justify-content: center;">
-                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth * -1, behavior: 'smooth'});" x-bind:class="start ? '' : 'slider__nav__button--active'">Previous</button>
-                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth, behavior: 'smooth'});" x-bind:class="end ? '' : 'slider__nav__button--active'">Next</button>
-                    </div>
-                </div>
-                <div class="detail-dinas">
-                    <p>Dinas Riset dan Teknologi Bertanggung jawab atas riset dan pengolahan data serta pengembangan
-                        teknologi informasi di lingkungan BEM KM Fasilkom UNSRI untuk mendukung segala kebutuhan agar
-                        memudahkan dalam problem solving. Dinas Ristek terbagi menjadi 2 divisi yaitu divisi
-                        pengembangan teknologi informasi dan divisi riset data</p>
-                </div>
-            </div>
-        </div>
-        <div class="row3">
             <div class="content-dinas">
                 <div class="title-dinas">
                     <h3>Dinas MEDINFO</h3>
@@ -1204,21 +1316,139 @@
                 </div>
             </div>
         </div>
+        <div class="row3">
+            <div class="content-dinas">
+                <div class="title-dinas">
+                    <h3>Dinas RISTEK</h3>
+                    <div class="bar"></div>
+                </div>
+                <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
+                    <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/farrel.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Farrel Athaillah Wijaya </h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/shofwan.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Shofwan Mahdi</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rifqi.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Rifqi Rizqullah</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fachry.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Fachry Ghifary</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/dayef.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Dayef Alfarey Benjamin</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alif.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Alif Alferdiansyah</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/jordi.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Jordi Abrar satria</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rey.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>M. Reyvaldo</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/kevin.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Jhon Kevin Andianto Sinaga</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fitran.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Fitran Husein</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/lia.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Lia</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/zwesty.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Zwesty Quatra</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/faizal.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Faizal</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fathul.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Fathul Akbar</h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rifki.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>M. Rifki Tri Saputra </h2>
+                            </div>
+                        </div>
+                        <div class="slider__item">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alfarizi.png" alt="Image">
+                            <div class="slider__info">
+                                <h2>Muhammad Alfarizi Ramadhiyansa</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider__nav" style="display: flex;justify-content: center;">
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth * -1, behavior: 'smooth'});" x-bind:class="start ? '' : 'slider__nav__button--active'">Previous</button>
+                        <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth, behavior: 'smooth'});" x-bind:class="end ? '' : 'slider__nav__button--active'">Next</button>
+                    </div>
+                </div>
+                <div class="detail-dinas">
+                    <p>Dinas Riset dan Teknologi Bertanggung jawab atas riset dan pengolahan data serta pengembangan
+                        teknologi informasi di lingkungan BEM KM Fasilkom UNSRI untuk mendukung segala kebutuhan agar
+                        memudahkan dalam problem solving. Dinas Ristek terbagi menjadi 2 divisi yaitu divisi
+                        pengembangan teknologi informasi dan divisi riset data</p>
+                </div>
+            </div>
+        </div>
     </div>
     <!--Minat dan bakat-->
     <div class="intro">
         <h2>BIDANG MINAT & BAKAT</h2>
         <div class="bar"></div>
-        <img loading="lazy" src="assets/image/bidang-minbat.png" alt="">
+        <img loading="lazy" src="assets/image/Bidang-Minbat.png" alt="">
     </div>
     <div class="container bidang-wrapper">
         <div class="row1">
             <div class="box-bidang">
                 <div class="box-kiri">
-                    <img loading="lazy" src="assets/image/koor-minbat1.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Minbat_Bagas.png" alt="">
                 </div>
                 <div class="box-kanan">
-                    <img loading="lazy" src="assets/image/koor-minbat2.png" alt="">
+                    <img loading="lazy" src="assets/image/Card-Koorbid-Minbat_Azmi.png" alt="">
                 </div>
             </div>
         </div>
@@ -1411,7 +1641,7 @@
                 <img loading="lazy" src="assets/image/logo.png" alt="">
                 <div class="logo-detail">
                     <h3>BEM KM FASILKOM UNSRI</h3>
-                    <p>#Kabinet Cakra Baswara</p>
+                    <p>#Kabinet Artha Dharma</p>
                 </div>
             </div>
             <div class="footer-detail">
@@ -1431,7 +1661,7 @@
             </div>
         </div>
         <div class="row2">
-            <h2>© BEM KM FASILKOM UNSRI 2023 | Kabinet Cakra Baswara</h2>
+            <h2>© BEM KM FASILKOM UNSRI 2023 | Kabinet Artha Dharma</h2>
         </div>
     </div>
 </footer>

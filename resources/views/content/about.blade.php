@@ -31,35 +31,13 @@
 
                     <ul class="dropdown__menu">
                         <li>
-                            <a href="/berita" class="dropdown__link">
-                                <i class="ri-user-line"></i> Pojok Berita
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/majalah" class="dropdown__link">
-                                <i class="ri-lock-line"></i> E-Magazine
-                            </a>
-                        </li>
-
-                        <li>
                             <a href="https://gaspol.bemilkomunsri.org" class="dropdown__link">
                                 <i class="ri-code-line"></i> GASPOL
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="dropdown__link">
-                                <i class="ri-code-line"></i> Fasilkom Learning Connection
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="dropdown__link">
+                            <a href="https://ilkomnews.bemilkomunsri.org/" class="dropdown__link">
                                 <i class="ri-message-3-line"></i> Ilkom News
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="dropdown__link">
-                                <i class="ri-message-3-line"></i> BEM Shortlink
                             </a>
                         </li>
                     </ul>
@@ -407,7 +385,7 @@
                 <img loading="lazy" src="assets/image/logo.png" alt="">
                 <div class="logo-detail">
                     <h3>BEM KM FASILKOM UNSRI</h3>
-                    <p>#Kabinet Adibrata Kriya</p>
+                    <p>#Kabinet Artha Dharma</p>
                 </div>
             </div>
             <div class="footer-detail">
@@ -427,7 +405,7 @@
             </div>
         </div>
         <div class="row2">
-            <h2>© BEM KM FASILKOM UNSRI 2024 | Kabinet Adibrata Kriya</h2>
+            <h2>© BEM KM FASILKOM UNSRI 2024 | Kabinet Artha Dharma</h2>
         </div>
     </div>
 </footer>
