@@ -298,25 +298,25 @@
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
                     <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/deasyana.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Ma'arifa_Keuangan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Nabila Ma’arifa Alzahra</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/desna.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Ameylia_Keuangan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Zaskia Ameylia Putri</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/dina.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Rinis_Keuangan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Rinis Junika</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/githa.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Elsa_Keuangan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Elsa Fauzizah</h2>
                             </div>
@@ -328,55 +328,55 @@
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/khai.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Khomsah_Keuangan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Khomsah Wijaya Kusumawati</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/khoirunnisa.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Prenata_Keuangan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Prenata Anju Helma Suci</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/meiyin.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Safwan_Kesekertariatan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Nabilla Safwan</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/nadia.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Zaskia_Kesekertariatan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Zaskia Azila</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/nurhalizah.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Adlia_Kesekertariatan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Nabila Adlia Ramadhani</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/putri.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Novelita_Kesekertariatan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Novelita Difani</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/redinda.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Nisa_Kesekertariatan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Nisa Nofrianti</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/rosmalinda.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Saniya_Kesekertariatan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Saniyaa</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/adm/xenia.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/adm/Card Annisa_Kesekertariatan.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Annisa Rahma</h2>
                             </div>
