@@ -816,8 +816,16 @@ footer .footer-wrapper {
     padding: 0px 0px 120px;
 }
 
+.bidang-wrapper .row4 {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    padding: 0px 0px 120px;
+}
+
 .bidang-wrapper .row2 .content-dinas,
-.bidang-wrapper .row3 .content-dinas {
+.bidang-wrapper .row3 .content-dinas,
+.bidang-wrapper .row4 .content-dinas {
     width: 85%;
 }
 
@@ -2431,7 +2439,8 @@ footer .footer-wrapper {
     }
 
     .bidang-wrapper .row2 .content-dinas,
-    .bidang-wrapper .row3 .content-dinas {
+    .bidang-wrapper .row3 .content-dinas,
+    .bidang-wrapper .row4 .content-dinas {
         width: 100%;
     }
 
