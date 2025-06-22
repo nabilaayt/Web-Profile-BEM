@@ -1127,115 +1127,115 @@
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
                     <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/farrel.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Stevanus_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Stevanus Parise Jona Sitorus</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/shofwan.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Nabil_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Nabil Rafasya</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rifqi.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Ari_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Afratsin Wiradhiyaa Asaari</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fachry.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Farhan_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Farhan Bayu Maulana</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/dayef.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Ridho P_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Kgs.M.Ridho Pasha</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alif.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Ridho T_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Ridho Toyyib Al-Amin</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/jordi.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Juwita_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Juwita Mayasari</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rey.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Ridho M_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Ridho Mulya</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/kevin.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Richard_PTI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Richard Caesar</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fitran.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Rafly_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Rafly Adrian Saputra</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/lia.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Nasywa_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Nasywa Afifah</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/zwesty.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Indri_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Indri Suryani Manik</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/faizal.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Naufal_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Naufal Rizky Meideyan</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/fathul.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Luthfi_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Luthfi Muta'ali</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/rifki.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Hilma_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Hilma Rida Azzahra</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alfarizi.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Syarif_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Syarif Ahmad Al-Bukhori</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alfarizi.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Joda_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Rizki Joda Saputra</h2>
                             </div>
                         </div>
                             <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alfarizi.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Rifqoh_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Rifqoh</h2>
                             </div>
                         </div>
                             <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ristek/alfarizi.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ristek/Card Zaif_Akademik.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Zaif Daffarian</h2>
                             </div>
