@@ -175,25 +175,25 @@
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
                     <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="public/assets/image/ppsdm/Card Masayu_MSDM.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Masayu_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Masayu Jihan Salmalia</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/anggita.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Naswazein_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Naswazein Vitto Febrilian</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/aulia.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Jingga_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Jingga</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/elisa.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Bintang_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Bintang Dwi Cahya Dati</h2>
                             </div>
@@ -205,67 +205,67 @@
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/farhan.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Adis_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Adis Santia</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/hauzan.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Fathan_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>M. Fathan Ardiansyah</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/leiden.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Ramzi_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Ramzi</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/naila.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Fiqih_MSDM.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Fiqih Ade Julianda</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/novita.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Pirgi_HARMONISASI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Pirgi Jonatan</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/qaishar.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Zaki_HARMONISASI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhamad Zaki Nafi Pratama</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/rahmad.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Fadhil_HARMONISASI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Fadhil Pratama</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/ramanuddin.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Salsabila_HARMONISASI.png" alt="Image">
                             <div class="slider__info">
                                 <h2> Salsabila Alfath Annisaa</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/shadiqa.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Viviey_HARMONISASI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Vivie Alayda</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/siti.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Dzakiy_HARMONISASI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Dzakiy Erlang Hersiando</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/virnaldias.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/ppsdm/Card Naufal_HARMONISASI.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Naufal Al Faiz</h2>
                             </div>
@@ -300,85 +300,85 @@
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/deasyana.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muhamad Anandithyo Aftarudzaki</h2>
+                                <h2>Nabila Ma’arifa Alzahra</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/desna.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Bagus Prihantoro</h2>
+                                <h2>Zaskia Ameylia Putri</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/dina.png" alt="Image">
                             <div class="slider__info">
-                                <h2>M. Bintang Naufal Riansyah</h2>
+                                <h2>Rinis Junika</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/githa.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Edo Wicaksono</h2>
+                                <h2>Elsa Fauzizah</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/ilma.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Ferdio Putra Prakarsa</h2>
+                                <h2>Rahma Ayu Sakila</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/khai.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Khoiron Abdullah Muqsith</h2>
+                                <h2>Khomsah Wijaya Kusumawati</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/khoirunnisa.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Putri Rahel Alifia</h2>
+                                <h2>Prenata Anju Helma Suci</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/meiyin.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muhammad Razaan Arjuna</h2>
+                                <h2>Nabilla Safwan</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/nadia.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Suci Lestari</h2>
+                                <h2>Zaskia Azila</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/nurhalizah.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Zakirah Sabrina Putri Pasha</h2>
+                                <h2>Nabila Adlia Ramadhani</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/putri.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Erlangga Saputra</h2>
+                                <h2>Novelita Difani</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/redinda.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Batara Obed H. Simbolon</h2>
+                                <h2>Nisa Nofrianti</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/rosmalinda.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Aulia Khairunnisa</h2>
+                                <h2>Saniyaa</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/adm/xenia.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Jihan Badiatus Shaliha</h2>
+                                <h2>Annisa Rahma</h2>
                             </div>
                         </div>
                     </div>
