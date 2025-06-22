@@ -1281,75 +1281,51 @@
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
                     <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/amrina.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Zakki_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Amrina Rosyada Zikri</h2>
+                                <h2>Muhammad Zakki</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/archie.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Raihan_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Archie PH Sinaga</h2>
+                                <h2>Raihan Agasi</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/bahij.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Rachel_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Bahij Ammar Dzakwan Al Faiq</h2>
+                                <h2>Rachel Maryam</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/basyar.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Arielendra_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muhammad Basyar</h2>
+                                <h2>Arielendra Febriano Dewa Putra</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/cahaya.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Faiz_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Cahaya Hijrun</h2>
+                                <h2>Muhammad Faiz</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/gyiash.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Ariel_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Gyiash Augis Ahmad</h2>
+                                <h2>Muhammad Ariel Ortega</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/irsal.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Nafisa_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muzaniirsal</h2>
+                                <h2>Nafisa Ayu Nadiya</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/marsanda.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/Card Leo_Olahraga.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Marsanda</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/nazif.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Nazif Nizal</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/neza.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Neza Rayendra</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/rani.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Rani Sagita</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/olahraga/zacky.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Zacky Bayu Iskandar</h2>
+                                <h2>Leo Apriansah</h2>
                             </div>
                         </div>
                     </div>
@@ -1359,7 +1335,7 @@
                     </div>
                 </div>
                 <div class="detail-dinas">
-                    <p>Secara garis besar dinas olahraga pada BEM KM FASILKOM adalah untuk Menjaring atau mewadahi
+                    <p>Secara garis besar Dinas Olahraga pada BEM KM FASILKOM adalah untuk Menjaring atau mewadahi
                         seluruh mahasiswa Fasilkom pada bidang olahraga dan juga mencari bakat olahraga untuk sebagai
                         perwakilan fakultas pada ajang lomba antar fakultas</p>
                 </div>
@@ -1374,63 +1350,57 @@
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
                     <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/cisa.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Nadia_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Cisa Livia Virnandyka</h2>
+                                <h2>Nadia Ramadhani</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/fakhrel.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Nadhilah_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muhammad Fakhrel Bagaskara</h2>
+                                <h2>Nadhilah Al Adawiyah</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/ghea.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Sri_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Ghea Khairunnisa</h2>
+                                <h2>Sri Supadmi</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/iqbal.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Nur_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Iqbal Akbar Kurniawan</h2>
+                                <h2>Nur Kholisna</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/muanai.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Meysah_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muanai Khalifah Revindo</h2>
+                                <h2>Meysah Amanda Dira Cantika</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/nayla.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Tisi_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Nayla Mutia Renata</h2>
+                                <h2>Tisi Karintia</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/raden.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Javier_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Raden Ayu Hikmah Rizky</h2>
+                                <h2>Javier Rashad Agustrisyah</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/rizky.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/senbud/Card Afrizal_Senbud.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Rizky Daffa Permana</h2>
+                                <h2>Muhammad Afrizal</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/senbud/silvia.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Silvia Nabila Putri</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/senbud/tanjung.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>M. A. Tanjung Idrussalam</h2>
+                                <h2>Alya Putri Adhetya</h2>
                             </div>
                         </div>
                     </div>
@@ -1440,7 +1410,7 @@
                     </div>
                 </div>
                 <div class="detail-dinas">
-                    <p>Dinas seni budaya di bem ini merupakan dinas yang bertanggung jawab untuk mengelola kegiatan dan
+                    <p>Dinas Seni Budaya di BEM ini merupakan dinas yang bertanggung jawab untuk mengelola kegiatan dan
                         program seni di lingkungan kampus,
                         seperti pengembangan dan promosi seni budaya di kalangan mahasiswa contohnya mengadakan festival
                         ataupun pameran. menyediakan sarana buat mahasiswa untuk mengekspresikan diri dan mengembangkan
