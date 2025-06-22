@@ -635,52 +635,53 @@
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
                     <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Raihan_Sosmas.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/kastrat/Card Bunga_Kastrat.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Bunga Angelica Ramadhani</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Winolla_Sosmas.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/kastrat/Card Naufalista_Kastrat.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Naufalista Gemilang</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Ahmad_Sosmas.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/kastrat/Card Raflyza_Kastrat.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Raflyza</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Qanita_Sosmas.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/kastrat/Card Okta_Kastrat.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Okta Mayang Sari</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Viardo_Sosmas.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/kastrat/Card Marsha_Kastrat.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Marsha Sabrina Alexandra</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Ojie_Sosmas.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/kastrat/Card Habil_Kastrat.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Habil Al-Farisy</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Indi_Sosmas.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Zidane Alfarez Suherman</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/sosmasling/Card Ardi_Lingkungan.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/kastrat/Card Ruben_Kastrat.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Ruben Farras</h2>
                             </div>
+                        </div>
                     </div>
                     <div class="slider__nav" style="display: flex;justify-content: center;">
                         <button class="slider__nav__button" x-on:click="$refs.slider.scrollBy({left: $refs.slider.offsetWidth * -1, behavior: 'smooth'});" x-bind:class="start ? '' : 'slider__nav__button--active'">Previous</button>
@@ -723,103 +724,61 @@
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/anandithyo.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muhamad Anandithyo Aftarudzaki</h2>
+                                <h2>Adventha Dwi Cristia Putri</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/bagus.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Bagus Prihantoro</h2>
+                                <h2>Eska Roulina Sihombing</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/bintang.png" alt="Image">
                             <div class="slider__info">
-                                <h2>M. Bintang Naufal Riansyah</h2>
+                                <h2>Muhammad Khusnul Zakky</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/edo.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Edo Wicaksono</h2>
+                                <h2>Lela Sari</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/ferdio.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Ferdio Putra Prakarsa</h2>
+                                <h2>Nabila Putri Ramadani</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/khoiron.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Khoiron Abdullah Muqsith</h2>
+                                <h2>Zahra Citra Anggraeni</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/rahel.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Putri Rahel Alifia</h2>
+                                <h2>Aliya Faiza</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/razaan.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Muhammad Razaan Arjuna</h2>
+                                <h2>Roitona Takaya</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/suci.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Suci Lestari</h2>
+                                <h2>Makayasa Aidil Fathan</h2>
                             </div>
                         </div>
                         <div class="slider__item">
                             <img loading="lazy" class="slider__image" src="assets/image/medinfo/zakirah.png" alt="Image">
                             <div class="slider__info">
-                                <h2>Zakirah Sabrina Putri Pasha</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/erlangga.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Erlangga Saputra</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/batara.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Batara Obed H. Simbolon</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/aulia.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Aulia Khairunnisa</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/jihan.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Jihan Badiatus Shaliha</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/rasyid.png" alt="Image">
-                            <div class="slider__info">
-                                <h2> M. Rasyid Ridho</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/parnata.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Parnata Nalom Banjarnahor</h2>
-                            </div>
-                        </div>
-                        <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/putri.png" alt="Image">
-                            <div class="slider__info">
-                                <h2>Putri Maharani</h2>
+                                <h2>Nauval Dutta</h2>
                             </div>
                         </div>
                     </div>
