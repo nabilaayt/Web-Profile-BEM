@@ -885,13 +885,13 @@
                 <div class="slider" x-data="{start: true, end: false}" style="padding-top: 40px;">
                     <div class="slider__content" x-ref="slider" x-on:scroll.debounce="$refs.slider.scrollLeft == 0 ? start = true : start = false; Math.abs(($refs.slider.scrollWidth - $refs.slider.offsetWidth) - $refs.slider.scrollLeft) < 5 ? end = true : end = false;">
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/anandithyo.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src=" assets/image/hubeks/Card Maulana_Hubeks.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Muhammad Maulana</h2>
                             </div>
                         </div>
                         <div class="slider__item">
-                            <img loading="lazy" class="slider__image" src="assets/image/medinfo/bagus.png" alt="Image">
+                            <img loading="lazy" class="slider__image" src="assets/image/hubeks/Card Mery_Hubeks.png" alt="Image">
                             <div class="slider__info">
                                 <h2>Mery Efrilia</h2>
                             </div>
