@@ -53,11 +53,10 @@
     <div class="container header-wrapper">
         <div class="content-left" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
             <h2 class="typescript">HI! <span id="typescript"></span></h2>
-            <h3>BEM KM FASILKOM UNSRI 2024</h3>
+            <h3>BEM KM FASILKOM UNSRI 2025</h3>
             <h1>KABINET Artha Dharma</h1>
-            <h2>#RagamJiwaSatuKarsa</h2>
-            <p>Artha Dharma akan menjadi wadah kolaborasi yang Inklusif, Dedikatif, dan Progresif untuk kebermanfaatan
-                bagi KM Fasilkom UNSRI.</p>
+            <h2>#TumbuhBersamaWujudkanAsa</h2>
+            <p>BEM KM Fasilkom Unsri adalah organisasi eksekutif mahasiswa yang mewadahi aspirasi, inovasi, dan aksi nyata.</p>
         </div>
         <div class="content-right">
             <img loading="lazy" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="100" src="assets/image/logo.png" alt="">
@@ -71,7 +70,7 @@
     <div class="container subheader-wrapper">
         <div class="content-left" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
             <h2>Lebih dekat dengan</h2>
-            <h3>BEM KM FASILKOM UNSRI 2024</h3>
+            <h3>BEM KM FASILKOM UNSRI 2025</h3>
             <div class="btn">
                 <p><a href="/profile">Selengkapnya</a></p>
             </div>
@@ -83,73 +82,7 @@
 </section>
 <!--Inti End-->
 
-<!-- Pojok Berita Start-->
-<section class="berita">
-    <div class="container berita-wrapper" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-        <div class="row1">
-            <h2>POJOK BERITA</h2>
-            <div class="bar"></div>
-        </div>
-        <div class="row2">
-            @foreach ($nilai_berita as $item)
-            @if ($loop->index < 5) <div class="box">
-                <div class="box-image">
-                    <img loading="lazy" src="image-berita/{{ $item->imageberita }}" alt="">
-                </div>
-                <div class="box-detail">
-                    <h3>{{ $item->judulberita }}</h3>
-                    <p>{{ Str::limit($item->isiberita, 200, '...') }}</p>
-                    <div class="btn">
-                        <p><a href="/berita/isiberita/{{ $item->id }}">Details</a></p>
-                    </div>
-                </div>
-        </div>
-        @endif
-        @endforeach
-    </div>
-    <div class="ornament" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
-        <img loading="lazy" src="assets/image/ornament2.png" alt="" width="80px" height="80px">
-    </div>
-    <div class="ornament2" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
-        <img loading="lazy" src="assets/image/ornament.png" alt="" width="80px" height="80px">
-    </div>
-    </div>
-</section>
-<!-- Pojok Berita End-->
 
-<!-- Ilkom News Start-->
-<section class="berita">
-    <div class="container berita-wrapper" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-        <div class="row1">
-            <h2>ILKOM NEWS</h2>
-            <div class="bar"></div>
-        </div>
-        <div class="row2">
-            @foreach ($nilai_berita as $item)
-            @if ($loop->index < 5) <div class="box">
-                <div class="box-image">
-                    <img loading="lazy" src="image-ilkomnews/{{ $item->imageilkomnews }}" alt="">
-                </div>
-                <div class="box-detail">
-                    <h3>{{ $item->judulilkomnews }}</h3>
-                    <p>{{ Str::limit($item->isiilkomnews, 200, '...') }}</p>
-                    <div class="btn">
-                        <p><a href="/ilkomnews{{ $item-> id }}">Details</a></p>
-                    </div>
-                </div>
-        </div>
-        @endif
-        @endforeach
-    </div>
-    <div class="ornament" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
-        <img loading="lazy" src="assets/image/ornament2.png" alt="" width="80px" height="80px">
-    </div>
-    <div class="ornament2" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
-        <img loading="lazy" src="assets/image/ornament.png" alt="" width="80px" height="80px">
-    </div>
-    </div>
-</section>
-<!-- Ilkom News End-->
 
 <!--Birokrasi Start-->
 <section class="birokrasi">
@@ -194,34 +127,13 @@
         </div>
         <div class="row2">
             <div class="box">
-                <h3>Birokrasi Terkini</h3>
+                <h3>ILKOM NEWS</h3>
                 <div class="title orange">
                 </div>
             </div>
             <div class="box">
-                <h3>Fasilkom Learning Connection</h3>
-                <div class="title green">
-                </div>
-            </div>
-
-
-            <div class="box">
                 <h3>GASPOL</h3>
-                <div class="title red">
-                </div>
-            </div>
-
-            <div class="box">
-
-                <h3>BEM Shortlink</h3>
-
-                <div class="title blue">
-                </div>
-            </div>
-
-            <div class="box">
-                <h3>E - Magazine</h3>
-                <div class="title purple">
+                <div class="title green">
                 </div>
             </div>
 
@@ -282,20 +194,6 @@
 </section>
 <!--Kata Tokoh End-->
 
-<!--Social Media Start-->
-<section class="social-media">
-    <div class="container media-wrapper" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
-        <div class="row1-media">
-            <h2>Follow Our Social Media
-                BEM KM FASILKOM UNSRI</h2>
-            <div class="bar-media"></div>
-        </div>
-        <div class="row2-media">
-            <img loading="lazy" src="assets/image/media.png" alt="">
-        </div>
-    </div>
-</section>
-<!--Social Media End-->
 
 <footer>
     <div class="container footer-wrapper" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
@@ -324,7 +222,7 @@
             </div>
         </div>
         <div class="row2">
-            <h2>© BEM KM FASILKOM UNSRI 2024 | Kabinet Artha Dharma</h2>
+            <h2>© BEM KM FASILKOM UNSRI 2025 | Kabinet Artha Dharma</h2>
         </div>
     </div>
 </footer>
