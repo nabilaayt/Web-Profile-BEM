@@ -118,13 +118,13 @@ body {
 .subheader-wrapper .content-left h2 {
     font-size: 34px;
     font-weight: 600;
-    color: #000000;
+    color: #ffffff;
 }
 
 .subheader-wrapper .content-left h3 {
     font-size: 36px;
     font-weight: 600;
-    color: var(--second-color);
+    color: #ffffff;
     margin-bottom: 25px;
 }
 
@@ -386,7 +386,7 @@ body {
 .apps-wrapper .bar {
     width: 160px;
     height: 10px;
-    background-color: var(--second-color);
+    background-color: #ffffff;
 }
 
 .apps-wrapper .row2 {
