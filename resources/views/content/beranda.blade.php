@@ -76,7 +76,7 @@
             </div>
         </div>
         <div class="content-right">
-            <img loading="lazy" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="100" src="assets/image/image7.png" alt="">
+            <img loading="lazy" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="100" src="assets/image/BPH INTI.png" alt="">
         </div>
     </div>
 </section>

@@ -101,18 +101,21 @@ body {
 
 .subheader {
     margin-top: 20px;
-    padding-top: 120px;
+    padding-top: 100px;
     background: linear-gradient(#4a0000, #4a1313);
 }
 
 .subheader .subheader-wrapper {
     margin: auto;
     display: flex;
+    align-items: stretch;
 }
 
 .subheader-wrapper .content-left {
-    width: 50%;
+    width: 70%;
     padding-top: 32px;
+    justify-content: center;
+    padding-right: 30px;
 }
 
 .subheader-wrapper .content-left h2 {
@@ -158,9 +161,17 @@ body {
     transition: 0.3s ease-in-out;
 }
 
+.subheader-wrapper .content-right {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    transform: translateY(51px);
+}
+
 .subheader-wrapper .content-right img {
     width: 100%;
     height: 100%;
+    object-fit: contain;
 }
 
 /*Inti End*/
