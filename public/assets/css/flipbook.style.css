@@ -965,20 +965,17 @@
 
 /*twilight*/
 
-/*.flipbook-bg-twilight {
+.flipbook-bg-twilight {
     background: #141414;
-}*
+}
 
 .flipbook-color-twilight {
-    color: #FEFFD3;
+    color: #feffd3;
 }
 
 .flipbook-color-twilight:hover {
-    color: #FEFFD3;
+    color: #feffd3;
 }
-
-
-
 
 /*darkgrey*/
 

@@ -52,10 +52,10 @@
     <div class="container hero-wrapper">
         <div class="row">
             <div class="image">
-                <img loading="lazy" src="assets/image/hero-logo.png" alt="">
+                <img loading="lazy" src="assets/image/logo RISTEK Hitam.png" alt="">
             </div>
             <div class="hero-detail">
-                <h1>DINAS RISET <span>& TEKNOLOGI</span></h1>
+                <h1>DINAS RISET DATA <span>& TEKNOLOGI</span></h1>
                 <h3>
                     Mengelola pengembangan teknologi informasi untuk kebutuhan BEM dalam bentuk pengelolaan data dan
                     penerapan secara nyata teknologi.</h3>
@@ -68,10 +68,10 @@
 <section class="content">
     <div class="container content-wrapper">
         <div class="row1">
-            <h1>DIVISI</h1>
+            <h1>DIVISI PTI DAN AKADEMIK</h1>
             <div class="bar"></div>
             <div class="logo-wrapper">
-                <img src="assets/image/logo-divisi.png" alt="">
+                <img src="assets/image/Logo RISTEK.png" alt="">
             </div>
         </div>
         <div class="row2">

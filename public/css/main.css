@@ -911,7 +911,7 @@ footer .footer-wrapper {
 }
 
 .content-wrapper .row1 .bar {
-    width: 120px;
+    width: 400px;
     height: 12px;
     margin-bottom: 120px;
 }
@@ -922,7 +922,7 @@ footer .footer-wrapper {
 }
 
 .logo-wrapper img {
-    width: 80%;
+    width: 60%;
 }
 
 .content-wrapper .row2 {
@@ -1077,14 +1077,14 @@ footer .footer-wrapper {
     text-align: center;
     font-size: 38px;
     font-weight: 700;
-    color: var(--second-color);
+    color: #ffffff;
     padding-top: 80px;
 }
 
 .proker-wrapper .bar {
     width: 195px;
     height: 12px;
-    background-color: var(--second-color);
+    background-color: #ffffff;
     margin: auto;
     margin-bottom: 80px;
 }
