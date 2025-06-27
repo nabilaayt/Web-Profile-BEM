@@ -164,28 +164,6 @@
                         </div>
                     </div>
 
-                    <div class="blog-slider__item swiper-slide">
-                        <div class="blog-slider__img">
-                            <img src="assets/image/dico.svg" alt="">
-                        </div>
-                        <div class="blog-slider__content">
-                            <div class="blog-slider__title">Fernandico Geovardo</div>
-                            <span class="blog-slider__code">Gubernur Mahasiswa BEM KM Fasilkom UNSRI 2022/2023</span>
-                            <div class="blog-slider__text">“BEM KM Fasilkom Unsri merupakan organisasi eksekutif tertinggi di Fakultas Ilmu Komputer Universitas Sriwijaya. BEM KM Fasilkom Unsri sendiri terbagi atas 10 dinas, yang dimana masing-masing dinas memiliki tanggung jawab yang berbeda-beda pula. Tentunya BEM KM Fasilkom Unsri saat ini menjadi wadah yang memberikan kesempatan kepada seluruh mahasiswa Fasilkom agar dapat belajar dan berproses, serta menyalurkan apa yang menjadi minat mereka dalam berorganisasi. Kedepannya, saya berharap apa yang telah dibangun di BEM KM Fasilkom Unsri selama ini dapat terus berjalan, sehingga BEM KM Fasilkom Unsri dapat terus membagikan kebermanfaatan kepada seluruh mahasiswa Fasilkom Unsri. Hidup Mahasiswa!”</div>
-                        </div>
-                    </div>
-
-                    <div class="blog-slider__item swiper-slide">
-                        <div class="blog-slider__img">
-                            <img src="assets/image/dico.svg" alt="">
-                        </div>
-                        <div class="blog-slider__content">
-                            <div class="blog-slider__title">Fernandico Geovardo</div>
-                            <span class="blog-slider__code">Gubernur Mahasiswa BEM KM Fasilkom UNSRI 2022/2023</span>
-                            <div class="blog-slider__text">“BEM KM Fasilkom Unsri merupakan organisasi eksekutif tertinggi di Fakultas Ilmu Komputer Universitas Sriwijaya. BEM KM Fasilkom Unsri sendiri terbagi atas 10 dinas, yang dimana masing-masing dinas memiliki tanggung jawab yang berbeda-beda pula. Tentunya BEM KM Fasilkom Unsri saat ini menjadi wadah yang memberikan kesempatan kepada seluruh mahasiswa Fasilkom agar dapat belajar dan berproses, serta menyalurkan apa yang menjadi minat mereka dalam berorganisasi. Kedepannya, saya berharap apa yang telah dibangun di BEM KM Fasilkom Unsri selama ini dapat terus berjalan, sehingga BEM KM Fasilkom Unsri dapat terus membagikan kebermanfaatan kepada seluruh mahasiswa Fasilkom Unsri. Hidup Mahasiswa!”</div>
-                        </div>
-                    </div>
-
                 </div>
                 <div class="blog-slider__pagination"></div>
             </div>

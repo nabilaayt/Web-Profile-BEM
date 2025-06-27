@@ -86,7 +86,7 @@
                         <div class="box-detail">
                             <h2>JORDI ABRAR SATRIA</h2>
                             <h3>KEPALA DINAS</h3>
-                            <p>Teknik Informatika Bilingual 2023</p>
+                            <p>Teknik Informatika 2023</p>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                         <div class="box-detail">
                             <h2>FARREL ATHAILLAH WIJAYA</h2>
                             <h3>DEPUTI DINAS</h3>
-                            <p>Sistem Komputer Bilingual 2023</p>
+                            <p>Teknik Informatika 2023</p>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                         <div class="box-detail">
                             <h2>NABILA AYU TALITA</h2>
                             <h3>KEPALA DIVISI PTI</h3>
-                            <p>Teknik Informatika Bilingual 2023</p>
+                            <p>Teknik Informatika 2023</p>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,7 @@
                         <div class="box-detail">
                             <h2>NABILA SHAMID</h2>
                             <h3>KEPALA DIVISI AKADEMIK</h3>
-                            <p>Sistem Informasi Bilingual 2023</p>
+                            <p>Teknik Informatika 2023</p>
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                         <div class="box-detail">
                             <h2>M. Nabil Rafasya </h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Informatika Bilingual 2023</p>
+                            <p>Teknik Informatika 2023</p>
                         </div>
                     </div>
                 </div>
@@ -200,7 +200,7 @@
                         <div class="box-detail">
                             <h2>Ridho Mulya</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Sistem Komputer 2024</p>
+                            <p>Teknik Komputer 2024</p>
                         </div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                         <div class="box-detail">
                             <h2>Juwita Mayasari</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Sistem Informasi  2023</p>
+                            <p>Sistem Informasi 2024</p>
                         </div>
                     </div>
                 </div>
@@ -224,7 +224,7 @@
                         <div class="box-detail">
                             <h2>Afratsin Wiradhiyaa Asaari</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Komputer  2023</p>
+                            <p>Teknik Informatika 2023</p>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                         <div class="box-detail">
                             <h2>Richard Caesar</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Informatika 2023</p>
+                            <p>Komputerisasi Akuntansi 2024</p>
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@
                         <div class="box-detail">
                             <h2>M. Zaif Daffarian </h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p>Teknik Informatika  2024</p>
+                            <p>Teknik Informatika 2024</p>
                         </div>
                     </div>
                 </div>
@@ -278,7 +278,7 @@
                         <div class="box-detail">
                             <h2>M. Rifqoh</h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p> 2024</p>
+                            <p>Teknik Komputer 2024</p>
                         </div>
                     </div>
                 </div>
@@ -290,7 +290,7 @@
                         <div class="box-detail">
                             <h2>Rafly Adrian </h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p>Teknik Informatika  2024</p>
+                            <p>Sistem Komputer 2024</p>
                         </div>
                     </div>
                 </div>
@@ -302,7 +302,7 @@
                         <div class="box-detail">
                             <h2>Naufal Rizky Meideyan</h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p>Sistem Komputer 2024</p>
+                            <p>Manajemen Informatika 2024</p>
                         </div>
                     </div>
                 </div>
@@ -314,7 +314,7 @@
                         <div class="box-detail">
                             <h2>Nasywa Afifah</h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p>Teknik Informatika 2024</p>
+                            <p>Sistem Informasi 2024</p>
                         </div>
                     </div>
                 </div>
@@ -326,7 +326,7 @@
                         <div class="box-detail">
                             <h2>Indri Suryani Manik</h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p>Teknik Informatika 2024</p>
+                            <p>Komputerisasi Akuntansi 2024</p>
                         </div>
                     </div>
                 </div>
@@ -338,7 +338,7 @@
                         <div class="box-detail">
                             <h2>M. Rizki Joda Saputra</h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p>Teknik Informatika 2024</p>
+                            <p>Manajemen Informatika 2024</p>
                         </div>
                     </div>
                 </div>
@@ -350,7 +350,19 @@
                         <div class="box-detail">
                             <h2>M. Luthfi Muta'ali</h2>
                             <h3>STAFF AKADEMIK</h3>
-                            <p>Teknik Informatika  2023</p>
+                            <p>Manajemen Informatika 2024</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-bph">
+                    <div class="box">
+                        <div class="box-imagebph">
+                            <img loading="lazy" src="assets/image/ristek/Card Hilma_Akademik.png" alt="">
+                        </div>
+                        <div class="box-detail">
+                            <h2>Hilma Rida Azzahra</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Manajemen Informatika 2024</p>
                         </div>
                     </div>
                 </div>
