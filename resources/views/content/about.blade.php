@@ -52,10 +52,10 @@
     <div class="container hero-wrapper">
         <div class="row">
             <div class="image">
-                <img loading="lazy" src="assets/image/hero-logo.png" alt="">
+                <img loading="lazy" src="assets/image/logo RISTEK Hitam.png" alt="">
             </div>
             <div class="hero-detail">
-                <h1>DINAS RISET <span>& TEKNOLOGI</span></h1>
+                <h1>DINAS RISET DATA <span>& TEKNOLOGI</span></h1>
                 <h3>
                     Mengelola pengembangan teknologi informasi untuk kebutuhan BEM dalam bentuk pengelolaan data dan
                     penerapan secara nyata teknologi.</h3>
@@ -68,10 +68,10 @@
 <section class="content">
     <div class="container content-wrapper">
         <div class="row1">
-            <h1>DIVISI</h1>
+            <h1>DIVISI PTI DAN AKADEMIK</h1>
             <div class="bar"></div>
             <div class="logo-wrapper">
-                <img src="assets/image/logo-divisi.png" alt="">
+                <img src="assets/image/Logo RISTEK.png" alt="">
             </div>
         </div>
         <div class="row2">
@@ -81,48 +81,48 @@
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="{{asset('assets/image/ristek/agung.png')}}" alt="">
+                            <img loading="lazy" src="{{asset('assets/image/ristek/Card Kadin Ristek.png')}}" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>AGUNG HIDAYAH PUTRA</h2>
+                            <h2>JORDI ABRAR SATRIA</h2>
                             <h3>KEPALA DINAS</h3>
-                            <p>Teknik Informatika Reguler 2022</p>
+                            <p>Teknik Informatika Bilingual 2023</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="{{asset('assets/image/ristek/rizki.png')}}" alt="">
+                            <img loading="lazy" src="{{asset('assets/image/ristek/Card Deputi Ristek.png')}}" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>MUHAMMAD RIZKI FEBRIAN</h2>
+                            <h2>FARREL ATHAILLAH WIJAYA</h2>
                             <h3>DEPUTI DINAS</h3>
-                            <p>Sistem Komputer Reguler 2022</p>
+                            <p>Sistem Komputer Bilingual 2023</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="{{asset('assets/image/ristek/fadly.png')}}" alt="">
+                            <img loading="lazy" src="{{asset('assets/image/ristek/Card Kadiv PTI.png')}}" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>MUHAMMAD FADLY</h2>
+                            <h2>NABILA AYU TALITA</h2>
                             <h3>KEPALA DIVISI PTI</h3>
-                            <p>Teknik Informatika Bilingual 2022</p>
+                            <p>Teknik Informatika Bilingual 2023</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="{{asset('assets/image/ristek/risma.png')}}" alt="">
+                            <img loading="lazy" src="{{asset('assets/image/ristek/Card Kadiv Akademik.png')}}" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>RISMA NUR'AINI</h2>
-                            <h3>KEPALA DIVISI RISDAT</h3>
-                            <p>Sistem Informasi Reguler 2022</p>
+                            <h2>NABILA SHAMID</h2>
+                            <h3>KEPALA DIVISI AKADEMIK</h3>
+                            <p>Sistem Informasi Bilingual 2023</p>
                         </div>
                     </div>
                 </div>
@@ -135,10 +135,10 @@
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/farrel.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Nabil_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Farrel Athaillah Wijaya </h2>
+                            <h2>M. Nabil Rafasya </h2>
                             <h3>STAFF PTI</h3>
                             <p>Teknik Informatika Bilingual 2023</p>
                         </div>
@@ -147,186 +147,210 @@
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/fachry.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Stevanus_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Fachry Ghifary</h2>
+                            <h2>Stevanus Parise Jona Sitorus</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Informatika Reguler 2023</p>
+                            <p>Teknik Informatika 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/rifqi.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Farhan_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Muhammad Rifqi Rizqullah</h2>
+                            <h2>Farhan Bayu Maulana</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Informatika Bilingual 2023</p>
+                            <p>Sistem Komputer 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/shofwan.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Ridho P_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Shofwan Mahdi</h2>
+                            <h2>KGS. M. Ridho Pasha</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Informatika Reguler 2022</p>
+                            <p>Sistem Komputer 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/alif.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Ridho T_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Muhammad Alif Alferdiansyah</h2>
+                            <h2>Ridho Toyyib Al-Amin</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Informatika Bilingual 2022</p>
+                            <p>Sistem Komputer 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/dayef.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Ridho M_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Dayef Alfarey Benjamin</h2>
+                            <h2>Ridho Mulya</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Sistem Komputer Reguler 2020</p>
+                            <p>Sistem Komputer 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/kevin.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Juwita_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Jhon Kevin Andianto Sinaga</h2>
+                            <h2>Juwita Mayasari</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Sistem Informasi Reguler 2023</p>
+                            <p>Sistem Informasi  2023</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/rey.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Ari_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>M. Reyvaldo</h2>
+                            <h2>Afratsin Wiradhiyaa Asaari</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Komputer Bilingual 2023</p>
+                            <p>Teknik Komputer  2023</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/jordi.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Richard_PTI.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Jordi Abrar satria</h2>
+                            <h2>Richard Caesar</h2>
                             <h3>STAFF PTI</h3>
-                            <p>Teknik Informatika Bilingual 2023</p>
+                            <p>Teknik Informatika 2023</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row4">
-            <h1>STAFF RISET DATA</h1>
+            <h1>STAFF AKADEMIK</h1>
             <div class="bar"></div>
             <div class="staff">
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/zwesty.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Syarif_Akademik.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Zwesty Quatra</h2>
-                            <h3>STAFF RISDAT</h3>
-                            <p>Sistem Informasi Reguler 2023</p>
+                            <h2>Syarif Ahmad Al-Bukhori</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Sistem Komputer 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/alfarizi.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Zaif_Akademik.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Muhammad Alfarizi Ramadhiyansa </h2>
-                            <h3>STAFF RISDAT</h3>
-                            <p>Sistem Informasi Bilingual 2022</p>
+                            <h2>M. Zaif Daffarian </h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Teknik Informatika  2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/lia.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Rifqoh_Akademik.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Lia</h2>
-                            <h3>STAFF RISDAT</h3>
-                            <p>Komputerisasi Akuntansi Bilingual 2022</p>
+                            <h2>M. Rifqoh</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p> 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/rifki.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Rafly_Akademik.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>M. Rifki Tri Saputra </h2>
-                            <h3>STAFF RISDAT</h3>
-                            <p>Teknik Informatika Reguler 2023</p>
+                            <h2>Rafly Adrian </h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Teknik Informatika  2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/faizal.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Naufal_Akademik.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Muhammad Faizal</h2>
-                            <h3>STAFF RISDAT</h3>
-                            <p>Sistem Komputer Reguler 2022</p>
+                            <h2>Naufal Rizky Meideyan</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Sistem Komputer 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/fitran.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Nasywa_Akademik.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Fitran Husein</h2>
-                            <h3>STAFF RISDAT</h3>
-                            <p>Teknik Informatika Bilingual 2023</p>
+                            <h2>Nasywa Afifah</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Teknik Informatika 2024</p>
                         </div>
                     </div>
                 </div>
                 <div class="box-bph">
                     <div class="box">
                         <div class="box-imagebph">
-                            <img loading="lazy" src="assets/image/ristek/fathul.png" alt="">
+                            <img loading="lazy" src="assets/image/ristek/Card Indri_Akademik.png" alt="">
                         </div>
                         <div class="box-detail">
-                            <h2>Muhammad Fathul Akbar</h2>
-                            <h3>STAFF RISDAT</h3>
-                            <p>Teknik Informatika Reguler 2023</p>
+                            <h2>Indri Suryani Manik</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Teknik Informatika 2024</p>
+                        </div>
+                    </div>
+                </div>
+                    <div class="box-bph">
+                    <div class="box">
+                        <div class="box-imagebph">
+                            <img loading="lazy" src="assets/image/ristek/Card Joda_Akademik.png" alt="">
+                        </div>
+                        <div class="box-detail">
+                            <h2>M. Rizki Joda Saputra</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Teknik Informatika 2024</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-bph">
+                    <div class="box">
+                        <div class="box-imagebph">
+                            <img loading="lazy" src="assets/image/ristek/Card Luthfi_Akademik.png" alt="">
+                        </div>
+                        <div class="box-detail">
+                            <h2>M. Luthfi Muta'ali</h2>
+                            <h3>STAFF AKADEMIK</h3>
+                            <p>Teknik Informatika  2023</p>
                         </div>
                     </div>
                 </div>
@@ -342,37 +366,28 @@
         <div class="bar"></div>
         <div class="proker-list">
             <div class="box-proker">
-                <h3>WEB BEM KM FASILKOM UNSRI</h3>
+                <h3>WEBJAM PTI</h3>
             </div>
             <div class="box-proker">
-                <h3>WEB INTERNAL BEM KM FASILKOM UNSRI</h3>
+                <h3>WEBSITE BEM KM FASILKOM UNSRI</h3>
             </div>
             <div class="box-proker">
-                <h3>WEB Open Recruitment Staff BEM KM FASILKOM Unsri</h3>
+                <h3>WEBSITE GASPOL</h3>
             </div>
             <div class="box-proker">
-                <h3>WEB shortlink BEM KM FASILKOM Unsri</h3>
+                <h3>WEBSITE ILKOM NEWS</h3>
             </div>
             <div class="box-proker">
-                <h3>WEB Gaspol BEM KM FASILKOM UNSRI</h3>
+                <h3>AKADEMIK EMPOWER</h3>
             </div>
             <div class="box-proker">
-                <h3>Fasilkom Learning Connection</h3>
+                <h3>WONGDEV ILKOM</h3>
             </div>
             <div class="box-proker">
-                <h3>WEB PBGF</h3>
+                <h3>WONGDEV WEBINAR</h3>
             </div>
             <div class="box-proker">
-                <h3>E - Majalah BEM KM FASILKOM UNSRI</h3>
-            </div>
-            <div class="box-proker">
-                <h3>Riset Grafis</h3>
-            </div>
-            <div class="box-proker">
-                <h3>Riset Dan Pendataan</h3>
-            </div>
-            <div class="box-proker">
-                <h3>Did You Know?</h3>
+                <h3>WONGDEV WORKSHOP</h3>
             </div>
         </div>
     </div>
@@ -405,7 +420,7 @@
             </div>
         </div>
         <div class="row2">
-            <h2>© BEM KM FASILKOM UNSRI 2024 | Kabinet Artha Dharma</h2>
+            <h2>© BEM KM FASILKOM UNSRI 2025 | Kabinet Artha Dharma</h2>
         </div>
     </div>
 </footer>
