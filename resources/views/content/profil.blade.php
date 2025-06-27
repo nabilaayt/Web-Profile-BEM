@@ -1451,7 +1451,7 @@
             </div>
         </div>
         <div class="row2">
-            <h2>© BEM KM FASILKOM UNSRI 2023 | Kabinet Artha Dharma</h2>
+            <h2>© BEM KM FASILKOM UNSRI 2025 | Kabinet Artha Dharma</h2>
         </div>
     </div>
 </footer>
